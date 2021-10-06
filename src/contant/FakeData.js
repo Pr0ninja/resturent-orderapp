@@ -2,94 +2,94 @@ export const TableData=[
     {
         tableId:1,
         tableSpace:4,
-        status:'ready'
+        status:'Empty'
     },{
         tableId:2,
         tableSpace:4,
-        status:'ready'
+        status:'Empty'
     },{
         tableId:3,
         tableSpace:6,
-        status:'ready'
+        status:'Empty'
     },{
         tableId:4,
         tableSpace:6,
-        status:'wait'
+        status:'Booked'
     },{
         tableId:5,
         tableSpace:4,
-        status:'ready'
+        status:'Empty'
     },{
         tableId:6,
         tableSpace:4,
-        status:'wait'
+        status:'Booked'
     },{
         tableId:7,
         tableSpace:2,
-        status:'wait'
+        status:'Booked'
     },{
         tableId:8,
         tableSpace:2,
-        status:'ready'
+        status:'Empty'
     },{
         tableId:9,
         tableSpace:2,
-        status:'ready'
+        status:'Empty'
     },{
         tableId:10,
         tableSpace:6,
-        status:'wait'
+        status:'Booked'
     },{
         tableId:11,
         tableSpace:6,
-        status:'ready'
+        status:'Empty'
     },{
         tableId:12,
         tableSpace:4,
-        status:'ready'
+        status:'Empty'
     },{
         tableId:13,
         tableSpace:4,
-        status:'wait'
+        status:'Booked'
     },{
         tableId:14,
         tableSpace:2,
-        status:'ready'
+        status:'Empty'
     },{
         tableId:15,
         tableSpace:2,
-        status:'ready'
+        status:'Empty'
     },{
         tableId:16,
         tableSpace:2,
-        status:'ready'
+        status:'Empty'
     },{
         tableId:17,
         tableSpace:2,
-        status:'ready'
+        status:'Empty'
     },{
         tableId:18,
         tableSpace:6,
-        status:'wait'
+        status:'Booked'
     },{
         tableId:19,
         tableSpace:6,
-        status:'ready'
+        status:'Empty'
     },{
         tableId:20,
         tableSpace:4,
-        status:'ready'
+        status:'Empty'
     },{
         tableId:21,
         tableSpace:4,
-        status:'wait'
+        status:'Booked'
     },{
         tableId:22,
         tableSpace:2,
-        status:'ready'
+        status:'Empty'
     },{
         tableId:23,
         tableSpace:2,
-        status:'ready'
+        status:'Empty'
     }
 ] 
